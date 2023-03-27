@@ -1,0 +1,5 @@
+## Abstraction: Abstract Class Machine Problem
+
+1. Create an abstract class called "Employee" with the following properties: name, age, and salary. The Employee class should also have an abstract method called "calculatePay" that will be implemented in the subclass.
+2. Create two subclasses of the Employee class: "HourlyEmployee" and "SalariedEmployee". In the HourlyEmployee class, the "calculatePay" method should calculate the pay for an employee based on the number of hours worked and an hourly rate. In the SalariedEmployee class, the "calculatePay" method should calculate the pay for an employee based on their annual salary.
+3. Create a main class called "PayrollSystem" that creates instances of the HourlyEmployee and SalariedEmployee classes and calls the "calculatePay" method for each instance. This will demonstrate how abstraction and abstract classes can be used to define a common interface for different types of employees, while allowing each type of employee to implement its own specific behavior for calculating pay.
