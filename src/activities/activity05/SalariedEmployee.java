@@ -1,4 +1,4 @@
-package activities.activity5;
+package activities.activity05;
 
 public class SalariedEmployee extends Employee{
     public SalariedEmployee(String name, int age, double salary) {

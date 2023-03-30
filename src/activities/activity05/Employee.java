@@ -1,4 +1,4 @@
-package activities.activity5;
+package activities.activity05;
 
 public abstract class Employee {
     private String name;

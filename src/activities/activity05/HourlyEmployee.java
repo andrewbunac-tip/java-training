@@ -1,4 +1,4 @@
-package activities.activity5;
+package activities.activity05;
 
 public class HourlyEmployee extends Employee{
     private double hoursWorked;

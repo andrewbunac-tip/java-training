@@ -1,4 +1,4 @@
-package activities.activity5;
+package activities.activity05;
 
 public class PayrollSystem {
     public static void main(String[] args) {
