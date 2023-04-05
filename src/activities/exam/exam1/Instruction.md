@@ -9,7 +9,7 @@ Create a Java program that can help user to track their daily Expenses
 2. The attributes of class `Item` must be encapsulated,  create getters and setters and/or create constructors
 3. Create Class named `MyExpences`
 4. `MyExpenses` class must have below Attributes:
-   * `myExpenses` (`List<Item>`)
+   * `myExpenses` (`List<Item>`) (List<Item> myExpenses = new ArrayList<>()))
    *  `totalExpences` (BigDecimal)
 5. This Attributes must be encapsulated. Create assessor(getters) but don't create mutators(setters)
 6. In `MyExpenses` class, create method  name `add` with parameter `Item`. this method will Accept Item, compute the total expenses and save it to `totalExpences` attribute of `MyExpenses` class
@@ -23,7 +23,8 @@ Create a Java program that can help user to track their daily Expenses
    ```
       Date              Amount
       [2022-04-05]      599
-      [2022-04-05]      1200
+      [2022-04-06]      1200
    ```
+9. Create Main Class, add at leaset 10 expenses.
 
 
